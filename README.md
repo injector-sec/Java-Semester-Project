@@ -1,10 +1,10 @@
-#Shopping Cart Management System
+# Shopping Cart Management System
 
-##Overview
+## Overview
 
 The Shopping Cart Management System is a Java Swing application that simulates the functions of an e-commerce store's cart. This project demonstrates Object-Oriented Programming (OOP) principles by allowing users to add products to a cart, calculate costs, search for products, and generate the total bill.
 
-##Features
+## Features
 
 1. **Add Products** – Users can input product details such as name, price, and quantity.
 !![0](https://github.com/user-attachments/assets/c9f8141f-f392-41de-a497-fa0b3c29fa4f)
@@ -34,14 +34,14 @@ OOP Concepts – Encapsulation, inheritance, and polymorphism implemented.
 
 1. **Clone the repository:**
 
-'''git clone https://github.com/injector-sec/shopping-cart-system.git'''
+''' git clone https://github.com/injector-sec/shopping-cart-system.git '''
 
 2. **Open the project in an IDE like IntelliJ IDEA or Eclipse.**
 
 3. **Compile and run the main Java file:**
 
-'''javac ShoppingCart.java
-java ShoppingCart'''
+''' javac ShoppingCart.java '''
+''' java ShoppingCart '''
 
 Interact with the GUI to add products, search, and view the total bill.
 
