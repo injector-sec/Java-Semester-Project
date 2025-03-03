@@ -19,7 +19,7 @@ The Shopping Cart Management System is a Java Swing application that simulates t
 4. **Total Bill Calculation** – At checkout, the system sums up all product costs and displays the final bill.
 ![2](https://github.com/user-attachments/assets/8dbc4d1f-a8b4-4522-99e4-4d120a3ea6f4)
 
-##Technologies Used
+## Technologies Used
 
 Java Swing – GUI framework for building the user interface.
 
@@ -30,7 +30,7 @@ OOP Concepts – Encapsulation, inheritance, and polymorphism implemented.
 
 
 
-###Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository:**
 ```
@@ -49,11 +49,11 @@ OOP Concepts – Encapsulation, inheritance, and polymorphism implemented.
 
 Interact with the GUI to add products, search, and view the total bill.
 
-License
+## License
 
 This project is open-source under the MIT License.
 
-Contact
+## Contact
 
 For any queries or contributions, feel free to reach out:
 
