@@ -33,15 +33,19 @@ OOP Concepts – Encapsulation, inheritance, and polymorphism implemented.
 ###Installation & Usage
 
 1. **Clone the repository:**
-
-''' git clone https://github.com/injector-sec/shopping-cart-system.git '''
+```
+- git clone github.com/injector-sec/Java-Semester-Project
+- cd Java-Semester-Project
+```
 
 2. **Open the project in an IDE like IntelliJ IDEA or Eclipse.**
 
 3. **Compile and run the main Java file:**
 
-''' javac ShoppingCart.java '''
-''' java ShoppingCart '''
+```
+- javac App.java
+- java App
+```
 
 Interact with the GUI to add products, search, and view the total bill.
 
